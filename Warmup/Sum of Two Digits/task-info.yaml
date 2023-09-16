@@ -4,14 +4,14 @@ files:
     visible: true
     placeholders:
       - offset: 46
-        length: 23
+        length: 12
         placeholder_text: // Write your code here
         initial_state:
           length: 23
           offset: 46
         initialized_from_dependency: false
-        selected: false
-        status: Unchecked
+        selected: true
+        status: Solved
         encrypted_possible_answer: jR/ZT9jf79jpTwoNauLgTg==
     encrypted_text: 8CR+pvuSDe785wQmoXS3sd9hLqobSkv+5bvgWMnKCUH/wzZIsmelqqN3/vBEqETA2Xyj2oKfWboxXdJSyoO4OBZRNVj2PwKuVpVqwINsrW4=
     learner_created: false
@@ -31,5 +31,8 @@ files:
     visible: false
     encrypted_text: ITs8Nv8EH6QWJG5nufD7nG8aCRRNu9s0lIhzUcCHkspqtrXhkvgETqwgK3clQxWqxHPhg5TU04NONFDDQnQRlHpoHEynug+LLcHImSQvvv1+8PP2D3PpNNZp9HBmLnX/YZpiEZmaJlJ0o5jmzhu8TJo26jki48Y9YTJoAAgrp5WyEtj7AYjOEZHPy2L88rk+Nl6ND79YP0mSGKSDpZyzP6nkTnpuak43sQJ/q/cDGnzgigrvikwAlrCn2FrjDglMk4LhRjXvHYp/GDqXxlLBR4U47LjbEL5GRSrdcwYF13VVE8GYyKR4IK7kA9tTKtAkUxkPCAEhJVayYCVgcy9sI7wmuBePBVm4cXUSNgJGABcX5XJ6RAmxStDGNds8TBSW28iAiLCN3iBodhqGJ/0a/ozP3NRt96OiD9u66sojuNPXnDj28I35+m9FWlldceguYCpqFIpn0u6OlcazDEJg/kcxd42XDHSxJjSkkbCwXmSa1+QxGSNWRCveiekZX4XUXJZ26M2pM3ad17u5zMZk7wWJWr7epOO+rPHIYuHFKbqeqrTKb1sJSQ2ve3Fqx8R9LGWBY1f7asyeZs2SN+UbJx3XZ6QJThE6+zbYgyBg/d5ztN1thutwP0Eb7OrQ2ra6XxMow592FoGYAIaAybZWa0bO6lRq4q+BaIPfp2NqEIhGRFEujkVxPV+toP/XDwD69npv2yzQ98Z3cVEJpihTdQ==
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sat, 16 Sep 2023 18:02:06 UTC"
 record: -1

@@ -1,11 +1,11 @@
 import kotlin.math.max
 
-fun maximumPairwiseProduct(a: IntArray): Int {
+fun maximumPairwiseProduct(a: IntArray): Long {
     val len = a.size
-    var res = Int.MIN_VALUE
+    var res = Long.MIN_VALUE
     for (i in 0 until len) {
         for (j in i + 1 until len) {
-            res = max(res, a[i] * a[j])
+            res = max(res, a[i].toLong() * a[j])
         }
     }
     return res
